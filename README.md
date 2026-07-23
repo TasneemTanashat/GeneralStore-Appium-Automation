@@ -169,16 +169,6 @@ They help verify the application state after each major test step.
 
 ---
 
-## 📌 Future Improvements
-
-* Add Page Object Model (POM) design pattern.
-* Add better test data management.
-* Add HTML test reports.
-* Add CI/CD integration using GitHub Actions.
-* Add more test scenarios.
-
----
-
 ## 👩‍💻 Author
 
 **Eng. Tasneem Tanashat**
