@@ -14,13 +14,12 @@ The purpose of this project is to practice and demonstrate **mobile automation t
 
 * **Java**
 * **Appium**
-* **Selenium WebDriver**
 * **TestNG**
 * **Maven**
 * **Android Emulator / Real Android Device**
 * **UiAutomator2**
 * **Eclipse IDE**
-* **Git & GitHub**
+* **Selenium WebDriver**
 
 ---
 
