@@ -155,16 +155,16 @@ They help verify the application state after each major test step.
 
 ## 🔍 Automation Features Covered
 
-✔ Mobile application automation
-✔ Appium driver setup
-✔ Android UI automation using UiAutomator2
-✔ Finding elements using ID and XPath
-✔ Handling dropdown lists with scrolling
-✔ Explicit waits using WebDriverWait
-✔ TestNG test execution
-✔ Assertions for validation
-✔ Screenshot capturing
-✔ Automated application flow
+✔ Mobile application automation  
+✔ Appium driver setup  
+✔ Android UI automation using UiAutomator2  
+✔ Finding elements using ID and XPath  
+✔ Handling dropdown lists with scrolling  
+✔ Explicit waits using WebDriverWait  
+✔ TestNG test execution  
+✔ Assertions for validation  
+✔ Screenshot capturing  
+✔ Automated application flow  
 
 ---
 
